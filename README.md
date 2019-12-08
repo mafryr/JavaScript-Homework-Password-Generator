@@ -2,6 +2,9 @@
 
 # Password Generator
 A web-based, java-script password generator.
+Link: https://mafryr.github.io/JavaScript-Homework-Password-Generator/
+
+
 
 
 ### Configurability:
@@ -17,6 +20,8 @@ The user will encounter errors if one of the two below occurs:
 
 
 Copyright: Mafry Rivera
+
+
 
 
 ____________________________________________________________________________________________________________________________
