@@ -1,1 +1,0 @@
-# JavaScript-Homework-Password-Generator
