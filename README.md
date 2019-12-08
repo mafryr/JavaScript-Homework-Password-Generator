@@ -4,7 +4,7 @@
 A web-based, java-script password generator.
 Link: https://mafryr.github.io/JavaScript-Homework-Password-Generator/
 
-
+./img/Screenshot.png
 
 
 ### Configurability:
